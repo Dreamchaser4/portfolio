@@ -1,0 +1,7 @@
+title;description;url;image
+Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://github.com/Dreamchaser4/restaurant-menu;19.png
+Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://github.com/Dreamchaser4/weather-forecast;16.png
+Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://github.com/Dreamchaser4/news-api-email;5.png
+Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://github.com/Dreamchaser4/email-webcam-detection;11.png
+CRM;A Django CRM web app where users can place and manage orders .;https://github.com/Dreamchaser4/django-crm;7.jpg
+Data Visualization;A Streamlit web application is used to visualize an excel data sheet.;https://github.com/Dreamchaser4/sales-dashboard;6.jpg
